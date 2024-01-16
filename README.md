@@ -24,4 +24,4 @@ The Finger Counter App is designed to demonstrate the capabilities of the OpenCV
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sukhbir77/Finger-Count.git
+   git clone https://github.com/sukhbir77/finger-count-opencv.git
